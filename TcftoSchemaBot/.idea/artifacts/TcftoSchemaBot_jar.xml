@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TcftoSchemaBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TcftoSchemaBot_jar</output-path>
+    <root id="archive" name="TcftoSchemaBot.jar">
+      <element id="module-output" name="TcftoSchemaBot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/sample/telegrambots-3.0.1-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/sample/sqlite-jdbc-3.18.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
