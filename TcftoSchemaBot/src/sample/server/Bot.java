@@ -58,9 +58,7 @@ public class Bot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-
         return "****************************************************"; //secret TOKEN
-
     }
 
     //рассылка конкретному пользователю

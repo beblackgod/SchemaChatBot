@@ -18,7 +18,7 @@ import java.util.TreeMap;
  * Created by pc on 11.06.2017.
  */
 public class SQLliteDateBase {
-    private Connection connection;//позволяет подключаться к базе
+    private Connection connection;
     private PreparedStatement addContact;
     private PreparedStatement getContactList;
     private PreparedStatement addFeedback;
